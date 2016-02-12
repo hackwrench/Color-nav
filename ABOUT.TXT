@@ -1,0 +1,4 @@
+COLOR.BAS is a progra designed to facillitate the understanding of how colors
+relate to each other on the screen.
+
+TB.TXT is a file the illustrates how blue is laid out in the terrace mode.
